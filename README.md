@@ -44,8 +44,8 @@
 ### 📫 Let's Connect!
 
 - GitHub: [github.com/your-username](https://github.com/Danii9790)
-- LinkedIn: [linkedin.com/in/muhammad-daniyal-a626812ba](#) *(Add if available)*
-- Email: daniyalashraf9790@gmail.com *(Optional)*
+- LinkedIn: [linkedin.com/in/muhammad-daniyal-a626812ba](#) 
+- Email: daniyalashraf9790@gmail.com *
 
 ---
 
