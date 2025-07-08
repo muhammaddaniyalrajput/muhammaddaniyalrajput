@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Daniyal
 
-🎓 I'm an Applied Physics student with a passion for building web applications and Python-based tools.  
+🎓 I'm a Student with a passion for building web applications and Python-based tools.  
 💻 Currently diving deep into **Next.js**, **TypeScript**, and **Tailwind CSS** to build modern, responsive web apps.  
 🚀 I'm also exploring **APIs**, **Headless CMS (Sanity.io)**, and **Firebase** to create dynamic and scalable projects.  
 🎯 Participating in **Hackathon 3**, where I'm building a furniture marketplace called **Furniro**.
