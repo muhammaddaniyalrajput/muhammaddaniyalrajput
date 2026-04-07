@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.daniyalxdev.me">Portfolio</a> &bull;
-  <a href="https://www.linkedin.com/in/daniyalxdev">LinkedIn</a> &bull;
+  <a href="https://www.linkedin.com/in/muhammaddaniyalrajput">LinkedIn</a> &bull;
   <a href="mailto:daniyalashraf9790@gmail.com">Email</a>
 </p>
 
@@ -68,11 +68,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhammaddaniyalrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammaddaniyalrajput&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammaddaniyalrajput&theme=tokyonight" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammaddaniyalrajput&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammaddaniyalrajput&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
