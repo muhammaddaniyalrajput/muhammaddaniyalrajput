@@ -80,8 +80,8 @@
 ### Connect With Me
 
 <p align="center">
-  <a href="https://github.com/muhammaddaniyalrajput"><img src="https://img.shields.io/badge/GitHub-Danii9790-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/muhammaddaniyalrajput"><img src="https://img.shields.io/badge/LinkedIn-daniyalxdev-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/muhammaddaniyalrajput"><img src="https://img.shields.io/badge/GitHub-muhammaddaniyalrajput-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammaddaniyalrajput"><img src="https://img.shields.io/badge/LinkedIn-muhammaddaniyalrajput-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.daniyalxdev.me"><img src="https://img.shields.io/badge/Portfolio-daniyalxdev.me-06B6D4?logo=globe&logoColor=white" /></a>
   <a href="mailto:daniyalashraf9790@gmail.com"><img src="https://img.shields.io/badge/Email-daniyalashraf9790-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
