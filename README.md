@@ -68,11 +68,11 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danii9790&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muhammaddaniyalrajput&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Danii9790&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=muhammaddaniyalrajput&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -80,8 +80,8 @@
 ### Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Danii9790"><img src="https://img.shields.io/badge/GitHub-Danii9790-181717?logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daniyalxdev"><img src="https://img.shields.io/badge/LinkedIn-daniyalxdev-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/muhammaddaniyalrajput"><img src="https://img.shields.io/badge/GitHub-Danii9790-181717?logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/muhammaddaniyalrajput"><img src="https://img.shields.io/badge/LinkedIn-daniyalxdev-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://www.daniyalxdev.me"><img src="https://img.shields.io/badge/Portfolio-daniyalxdev.me-06B6D4?logo=globe&logoColor=white" /></a>
   <a href="mailto:daniyalashraf9790@gmail.com"><img src="https://img.shields.io/badge/Email-daniyalashraf9790-EA4335?logo=gmail&logoColor=white" /></a>
 </p>
